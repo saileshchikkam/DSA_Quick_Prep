@@ -1,4 +1,4 @@
-package APNC_DSA.Basics;
+package Patterns;
 
 import java.util.Scanner;
 

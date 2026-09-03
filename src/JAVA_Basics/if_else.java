@@ -1,4 +1,4 @@
-package APNC_DSA.Basics;
+package JAVA_Basics;
 
 public class if_else {
     static void main() {
