@@ -15,9 +15,9 @@ public class Selection_Sort {
                     smallest = j;
                 }
             }
-            int temp = arr[smallest];
-            arr[smallest] = arr[i];
-            arr[i] = temp;
+            int temp = arr[i];
+            arr[i] = arr[smallest];
+            arr[smallest] = temp;
         }
         System.out.println(Arrays.toString(arr));
     }
